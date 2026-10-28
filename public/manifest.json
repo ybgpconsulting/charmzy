@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "CHARMZY JEWELLERY",
+  "short_name": "CHARMZY",
+  "description": "Trendy aesthetic jhumkas, Korean bows, everyday college & office fashion jewelry under ₹299 from Noida. Buy 2 Get 1 Free & Buy 6 Get 4 Free Pan-India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFF4F6",
+  "theme_color": "#F21668",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "fashion", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
